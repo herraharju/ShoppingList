@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="main_add">Add</string>
+    <!--Add dialog-->
+    <string name="main_add_dialog_title">Add product</string>
+    <string name="product_name">Product name</string>
+    <string name="product_amount">Amount</string>
+    <string name="product_unit">Unit</string>
+    <string name="cancel">Cancel</string>
+    <!--Add dialog errors-->
+    <string name="error_name">Name must be at least 3 characters</string>
+    <string name="error_amount">Amount must be greater than 0</string>
+    <string name="error_unit">Product must have unit</string>
+    <!--Delete dialog-->
+    <string name="delete_dialog_title">Deleting item</string>
+    <string name="delete_dialog_message">Delete selected item?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <!--Show list dialog-->
+    <string name="show_list_dialog_title">Moving to see list</string>
+    <string name="show_list_dialog_message">Are you sure that you want to quit entering values?</string>
+    <!--Snackbar-->
+    <string name="snack_success">Product added succesfully!</string>
+    <string name="main_show_list">Show list</string>
+    <string name="close">Close</string>
+    <string name="save">Save changes</string>
+</resources>
